@@ -1,6 +1,5 @@
-
- package assignment01;
-
-public class Demo1 {
-
+public class MyWorkClass {
+	public String Lola () {
+		return "Lola";
+}
 }
